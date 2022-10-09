@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Queues.Rabbit.Shared/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "2.1.10"
+        },
+        "runtime": {
+          "Queues.Rabbit.Shared.dll": {}
+        }
+      },
+      "MySqlConnector/2.1.10": {
+        "runtime": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queues.Rabbit.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/2.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aVvetx5uRWlfnxXlbybf4t6plnH5IGrXSue8R2ZsBOAH8VfS1GuNYqQ4KREVAzN7JexPbhf41btg8pv34eBTrA==",
+      "path": "mysqlconnector/2.1.10",
+      "hashPath": "mysqlconnector.2.1.10.nupkg.sha512"
+    }
+  }
+}

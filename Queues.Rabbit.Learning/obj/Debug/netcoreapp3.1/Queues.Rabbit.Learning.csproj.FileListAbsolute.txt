@@ -1,0 +1,7 @@
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.csproj.AssemblyReference.cache
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.AssemblyInfoInputs.cache
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.AssemblyInfo.cs
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.csproj.CoreCompileInputs.cache
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.MvcApplicationPartsAssemblyInfo.cs
+C:\POCdotNet\Queues.Rabbit.Learning\obj\Debug\netcoreapp3.1\Queues.Rabbit.Learning.MvcApplicationPartsAssemblyInfo.cache

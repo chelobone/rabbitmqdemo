@@ -1,0 +1,12 @@
+C:\POCdotNet\Queues.Rabbit.Shared\bin\Debug\net6.0\Queues.Rabbit.Shared.deps.json
+C:\POCdotNet\Queues.Rabbit.Shared\bin\Debug\net6.0\Queues.Rabbit.Shared.dll
+C:\POCdotNet\Queues.Rabbit.Shared\bin\Debug\net6.0\Queues.Rabbit.Shared.pdb
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.csproj.AssemblyReference.cache
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.AssemblyInfoInputs.cache
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.AssemblyInfo.cs
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.csproj.CoreCompileInputs.cache
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.dll
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\refint\Queues.Rabbit.Shared.dll
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\Queues.Rabbit.Shared.pdb
+C:\POCdotNet\Queues.Rabbit.Shared\obj\Debug\net6.0\ref\Queues.Rabbit.Shared.dll

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Queues.Rabbit.Learning
+build_property.ProjectDir = C:\POCdotNet\Queues.Rabbit.Learning\

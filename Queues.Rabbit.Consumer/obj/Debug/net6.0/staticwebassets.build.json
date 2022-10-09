@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I2yl9Xs79nUt4J/QFT4l47D1NOXhPQOWs7uqCYYTVV0=",
+  "Source": "Queues.Rabbit.Consumer",
+  "BasePath": "_content/Queues.Rabbit.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
