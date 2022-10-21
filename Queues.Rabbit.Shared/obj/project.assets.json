@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
+      "projectUniqueName": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
       "projectName": "Queues.Rabbit.Shared",
-      "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
+      "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
       "packagesPath": "C:\\Users\\MarceloFriz\\.nuget\\packages\\",
-      "outputPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\obj\\",
+      "outputPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MarceloFriz\\AppData\\Roaming\\NuGet\\NuGet.Config",

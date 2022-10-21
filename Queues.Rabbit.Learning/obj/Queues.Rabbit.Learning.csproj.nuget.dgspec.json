@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POCdotNet\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj": {}
+    "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj": {}
   },
   "projects": {
-    "C:\\POCdotNet\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj": {
+    "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POCdotNet\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj",
+        "projectUniqueName": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj",
         "projectName": "Queues.Rabbit.Learning",
-        "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj",
+        "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Learning\\Queues.Rabbit.Learning.csproj",
         "packagesPath": "C:\\Users\\MarceloFriz\\.nuget\\packages\\",
-        "outputPath": "C:\\POCdotNet\\Queues.Rabbit.Learning\\obj\\",
+        "outputPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MarceloFriz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
-                "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj"
+              "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
+                "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
+    "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
+        "projectUniqueName": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
         "projectName": "Queues.Rabbit.Shared",
-        "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
+        "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
         "packagesPath": "C:\\Users\\MarceloFriz\\.nuget\\packages\\",
-        "outputPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\obj\\",
+        "outputPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MarceloFriz\\AppData\\Roaming\\NuGet\\NuGet.Config",

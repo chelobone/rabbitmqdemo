@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/UC3wyHjBnf5Rn79ZVljybXZ56WZZIeWgK/2RxwkgA6B4Uw0TvboAxMBTad530vL+yYhf8H6zqW/7uYZeUdpg==",
+  "dgSpecHash": "LF8vWRyIvx+ylvfFB1WoVi1ppiys3zODMUKNDL6MvFQz1GBoohhiS1X/ihA4kMrmvtE14U22JKkQFZQLT0JFcQ==",
   "success": true,
-  "projectFilePath": "C:\\POCdotNet\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
+  "projectFilePath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarceloFriz\\.nuget\\packages\\masstransit\\8.0.3\\masstransit.8.0.3.nupkg.sha512",
     "C:\\Users\\MarceloFriz\\.nuget\\packages\\masstransit.abstractions\\8.0.3\\masstransit.abstractions.8.0.3.nupkg.sha512",

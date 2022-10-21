@@ -1100,11 +1100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POCdotNet\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
+      "projectUniqueName": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
       "projectName": "Queues.Rabbit.Consumer",
-      "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
+      "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Consumer\\Queues.Rabbit.Consumer.csproj",
       "packagesPath": "C:\\Users\\MarceloFriz\\.nuget\\packages\\",
-      "outputPath": "C:\\POCdotNet\\Queues.Rabbit.Consumer\\obj\\",
+      "outputPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MarceloFriz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1121,8 +1121,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
-              "projectPath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj"
+            "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj": {
+              "projectPath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj"
             }
           }
         }

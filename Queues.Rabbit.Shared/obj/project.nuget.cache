@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2GfEc6UpaZJt3ZhaesQtswKV4dP59uV3WG1n16fRX67uFQL/WV//F5+QyGyrTBKbVx2ohCHWUBKIgU1db907BA==",
+  "dgSpecHash": "PI2DvjxKrRhJz7VVxQjsCfqYjw45OMCB/8p0GJJG+MPGq0k58yhTadzPWDLV9UY7xqNbGkY1SL81yc+sj59ktQ==",
   "success": true,
-  "projectFilePath": "C:\\POCdotNet\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
+  "projectFilePath": "C:\\POCdotNet\\RabbitMQDemo\\Queues.Rabbit.Shared\\Queues.Rabbit.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarceloFriz\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512"
   ],
