@@ -57,6 +57,6 @@ Libreria de elementos compartidos
 
 #
 ## *Frontend de carga de archivos*
-El proyecto de frontend para ejecutar este laboratorio lo pueden encontrar en este link: [multi-login-v2]()
+El proyecto de frontend para ejecutar este laboratorio lo pueden encontrar en este link: [multi-login-v2](https://github.com/chelobone/multi-login-v2)
 
 #
